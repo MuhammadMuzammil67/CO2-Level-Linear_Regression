@@ -1,5 +1,6 @@
 # Prediction of CO2 Level using Linear Regression 
 **Algorithm used:** y = mX + c ==> Linear Regression
+
 Predicted the level of CO2 with the number of Trees planted in 10Yards of areas.
 This is my first practice project on Supervised Learning and alogrithm used is Linear Regression.
 **Steps are as follows:**
